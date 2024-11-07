@@ -55,19 +55,13 @@ Developed a Flutter-based mobile application with a primary focus on dating, acc
 
 https://github.com/user-attachments/assets/64587e4f-ed7c-462e-a697-f544ff208dc3
 
-![WhatsApp Image 2024-11-07 at 12 05 58 PM](https://github.com/user-attachments/assets/65cf61ae-445c-4565-ae64-a4080b1263b3)
-
-
-
 https://github.com/user-attachments/assets/a49803df-5fba-406c-97ee-b63022789858
 
-
+![WhatsApp Image 2024-11-07 at 12 05 58 PM](https://github.com/user-attachments/assets/65cf61ae-445c-4565-ae64-a4080b1263b3)
 
 ![WhatsApp Image 2024-11-07 at 12 05 58 PM (2)](https://github.com/user-attachments/assets/cd3cb9d2-4cd8-4dde-a9ab-91cd350a2d0b)
 
-
 ![WhatsApp Image 2024-11-07 at 12 05 58 PM (1)](https://github.com/user-attachments/assets/7bb081f9-fa16-4be8-81e7-45ed53320a79)
-
 
 ![WhatsApp Image 2024-11-07 at 12 05 59 PM (2)](https://github.com/user-attachments/assets/b43e1539-519c-4968-90f8-00b01a21821f)
 
@@ -92,22 +86,16 @@ https://github.com/user-attachments/assets/a49803df-5fba-406c-97ee-b63022789858
 
 - **Reel Scrolling**: Built an infinite scroll feature for the reel section, similar to Instagram’s, to provide a seamless and engaging user experience, keeping users on the platform longer.
 
-- ![WhatsApp Image 2024-11-07 at 12 06 05 PM](https://github.com/user-attachments/assets/33276d7e-6640-44ad-80eb-6c5a77ae3a67)
-
-
-
 https://github.com/user-attachments/assets/5f574ddc-6cde-4ee5-ae45-f4cfe2b73993
 
+![WhatsApp Image 2024-11-07 at 12 06 05 PM](https://github.com/user-attachments/assets/33276d7e-6640-44ad-80eb-6c5a77ae3a67)
 
 ### Localization and Notification Preferences
 
 - **Localization**: Implemented the app’s localization, allowing users to change the app language in settings. This included integrating language files and managing translations.
 - **Notification Preferences**: Added in-app settings where users can customize their notification preferences for a more tailored experience.
 
-
 https://github.com/user-attachments/assets/4a93dca0-1b7b-43f8-a006-5e9c8cff2ef8
-
-
 
 https://github.com/user-attachments/assets/b685c901-b927-4d4f-9669-42e5a1601e97
 
